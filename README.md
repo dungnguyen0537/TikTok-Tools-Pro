@@ -37,4 +37,4 @@ Go to [TikTok.com](https://tiktok.com) and the floating control panel will appea
 
 ---
 
-*Made with ❤️ DShinee Dev.
+*Made with ❤️ DShinee Dev.*
