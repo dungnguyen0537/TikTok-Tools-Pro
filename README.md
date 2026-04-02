@@ -1,11 +1,5 @@
 # 🎵 TikTok Pro Tools - Chrome Extension
 
-[![Download Extension](https://img.shields.io/badge/Download_Extension-Download_ZIP-success?style=for-the-badge&logo=googlechrome)](https://github.com/diepvantien/Tiktok-Pro-Tools/archive/refs/heads/main.zip)
-
-A powerful Chrome extension that enhances your TikTok web experience with essential tools for audio, video, and UI customization.
-
----
-
 ## ✨ Features
 
 - ⏯ **Background Play**: Keep TikTok videos playing even when you switch to another tab.
